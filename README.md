@@ -30,7 +30,7 @@ Each application is independently deployed and targets a specific learning disor
 ## 🔢 Dyscalculia Screener
 
 **Live Demo**: [dyscalculia.vercel.app](https://dyscalculia-screening-game.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/Dyscalculia-Screening-Game)
+**Code**: [GitHub Repo](https://github.com/Hardik174/dyscalculia-buildathon)
 
 > **About Dyscalculia**  
 > Dyscalculia affects number recognition, math fluency, and spatial awareness.  
