@@ -41,7 +41,7 @@ Each application is independently deployed and targets a specific learning disor
 ## ✍️ Dysgraphia Screener
 
 **Live Demo**: [dysgraphia.vercel.app](https://dysgraphia-screening-test-eci3.vercel.app/)  
-**Code**: [Frontend](https://github.com/Avishkar32/Dysgraphia_Screening_Test) • [Backend](https://github.com/Avishkar32/DysgraphiaModel)
+**Code**: [Frontend](https://github.com/Avishkar32/Dysgraphia-Frontend/tree/master) • [Backend](https://github.com/Avishkar32/DysgraphiaModel)
 
 > **About Dysgraphia**  
 > Dysgraphia affects handwriting, fine motor control, and letter formation.  
