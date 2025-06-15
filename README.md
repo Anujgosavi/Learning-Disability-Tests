@@ -52,7 +52,7 @@ Each application is independently deployed and targets a specific learning disor
 ## 🅰️ ADHD Screener
 
 **Live Demo**: [adhd.vercel.app](https://adhd-hosted-rwmp.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/ADHD_Hosted)
+**Code**: [GitHub Repo](https://github.com/Jineshwari/adhd-buildathon)
 
 > **About ADHD**  
 > ADHD (Attention Deficit Hyperactivity Disorder) affects focus, attention span, and impulse control.  
