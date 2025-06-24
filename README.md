@@ -89,11 +89,9 @@ This suite takes a **play-first, diagnose-later** approach by blending:
 
 ---
 
-## ✍️ Author
+## ✍️ Authors
 
 **Avishkar Ghodke  , Anuj Gosavi , Jineshwari Bagul ,  Hardik Rokade **  
-MERN & Next.js Developer | AI/ML + GenAI Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/avishkar-ghodke-5556762b0/) • [Email](mailto:avishkar.ghodke23@vit.edu)
 
 ---
 
